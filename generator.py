@@ -45,3 +45,4 @@ def generate_password(
 
     return "".join(password_chars)
 
+  print("hell")
